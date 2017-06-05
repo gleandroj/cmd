@@ -7,7 +7,11 @@ Simple Command Processor for Arduino using regex
 ## How To Use This Library
 
 ```
+
+
 /* Callback's*/
+#include <Cmd.h>
+
 void _testCmd(MatchState *ms);
 
 /* Command's */
